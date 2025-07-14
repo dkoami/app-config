@@ -1,5 +1,5 @@
 build:
-  id: 101010101
-  version: 10000.2.3
-  name: "Default-GIT production-Build"
-  type: "GIT Default Build"
+  id: 3030303030
+  version: 30000.2.3
+  name: "PROD-GIT production-Build"
+  type: "GIT Production Build"
