@@ -1,5 +1,5 @@
 build:
   id: 3030303030
   version: 30000.2.3
-  name: "UPATE PROD-GIT production-Build"
+  name: "UPDATE PROD-GIT production-Build"
   type: "GIT Production Build"
